@@ -9746,7 +9746,7 @@ p.blog-excerpt__read-more {
 }
 .footer-content__maps-link {
     display: block;
-    margin-bottom: 1.875rem;
+    /* margin-bottom: 1.875rem; */
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
     color: #2b2a29;
