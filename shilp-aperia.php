@@ -61,7 +61,19 @@
   </div>
 
   
-  <div class="full-width-image large" data-bg-grab> <img width="1800" height="1048" src="images/on-going/Felicia/1.jpg" alt="" /></div>
+  <div class="full-width-image large" data-bg-grab> 
+    <img width="1800" height="1048" src="images/on-going/Felicia/1.jpg" alt="" />
+    <div class="video-play">
+      <a href="https://www.youtube.com/watch?v=RLlPLqrw8Q4" class="video video-popup mfp-iframe">
+        <i class="fa fa-play"></i>
+      </a>
+      <div class="waves-block">
+        <div class="waves wave-1"></div>
+        <div class="waves wave-2"></div>
+        <div class="waves wave-3"></div>
+      </div>
+    </div>
+  </div>
   <div class="linkbox-grid linkbox-grid--about">
     <div class="linkbox-grid__limit">
       <h2 class="project-title text-uppercase">Features</h2>
