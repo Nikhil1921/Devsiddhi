@@ -11,35 +11,50 @@
       </div>
     </div>
   </div>
-  <div class="three-images-project">
-    <div class="grid grid--padding-large">
-      <div class="grid__cell grid__cell--three-fifths">
-        <div class="three-images-project__left-limit">
-          <div class="grid grid--padding-small">
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <figure class="three-images-project__logo"> <img src="images/logo1.jpeg" class="attachment-full size-full" /> </figure>
-            </div>
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <p class="three-images-project__four-label"> Area Range:</p>
-              <h4 class="three-images-project__year"> 000 - 0000 Sq.Ft.</h4>
-            </div>
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <p class="three-images-project__four-label"> No. of Floors:</p>
-              <h4 class="three-images-project__year"> 04 Floors</h4>
-            </div>
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <p class="three-images-project__four-label"> No. of Units:</p>
-              <h5 class="three-images-project__year"> 26 Units</h5>
+  <div class="milestone specialisms">
+    <div class="grid">
+      <div class="grid__cell grid__cell--full">
+        <div class="container">
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000 - 0000 Sq.Ft.
+              </div>
+              <h4>Area Range</h4>
             </div>
           </div>
-          <div class="rera-block">
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000
+              </div>
+              <h4>No. of Floors</h4>
+            </div>
+          </div>
+
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000
+              </div>
+              <h4>No. of Towers</h4>
+            </div>
+          </div>
+
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000
+              </div>
+              <h4>No. of Units</h4>
+            </div>
+          </div>
+          <div class="rera-block mt-2 ">
             <p><strong>RERA Website:</strong> <a href="https://gujrera.gujarat.gov.in/" target="_blank">https://gujrera.gujarat.gov.in</a></p>
-            <p><strong>Reg No.:</strong> PR/GJ/GANDHINAGAR/GANDHINAGAR CITY/DEMO/XX000000/000000</p>
+            <p><strong>Reg No.:</strong> PR/GJ/GANDHINAGAR/GANDHINAGAR CITY/XXXX/XXX002222/123456</p>
           </div>
         </div>
-        <figure class="three-images-project__image three-images-project__left-image"> <img width="844" height="563" src="images/Complited/Devsiddhi-Fabula/3.jpg" alt="" /> </figure>
       </div>
-      <div class="grid__cell grid__cell--two-fifths grid__cell--right-side" style="background: url(images/Complited/Devsiddhi-Fabula/13.jpeg); background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
     </div>
   </div>
   <div class="full-width-image large big-image" data-bg-grab> <img width="1800" height="1048" src="images/Complited/Devsiddhi-Fabula/1.jpg" alt="" /></div>
@@ -98,6 +113,37 @@
       </div>
     </div>
   </div>
+
+
+  <div class="featured-awards">
+	<div class="container">
+		<h2 class="featured-awards__heading"> Video</h2>
+		<div class="grid grid--padding-seventeen">
+			<div class="grid__cell grid__cell--one-third award">
+      <div class="filter-video project-block masonry-item medium-column videos" style="position: relative; left: 0px; top: 0px;">
+          <div class="inner-box">
+            <div class="image-box">
+              <figure class="image"> <img src="images/Complited/Devsiddhi-Fabula/4.jpg" alt=""> <a href="https://www.youtube.com/watch?v=KN55pcJZi10&t=1s" target="_blank" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-play"></span></a> </figure>
+            </div>
+          </div>
+        </div>
+		 </div>
+			<div class="grid__cell grid__cell--one-third award">
+      <div class="filter-video project-block masonry-item medium-column videos" style="position: relative; left: 0px; top: 0px;">
+          <div class="inner-box">
+            <div class="image-box">
+              <figure class="image"> <img src="images/Complited/Devsiddhi-Fabula/21.jpg" alt=""> <a href="https://www.youtube.com/watch?v=dNUUNZoLSmI" target="_blank" class="link" data-fancybox="gallery" data-caption=""><span class="icon fa fa-play"></span></a> </figure>
+            </div>
+          </div>
+        </div>
+      </div>
+		</div>
+		<hr> </div>
+</div>
+
+  
+  
+    
   <div class="image-gallery">
     <div class="grid grid--padding-twelvefive">
       <div class="grid__cell grid__cell--one-third grid__cell--image-gallery">

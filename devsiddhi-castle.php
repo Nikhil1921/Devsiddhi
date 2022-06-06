@@ -11,37 +11,54 @@
       </div>
     </div>
   </div>
-  <div class="three-images-project">
-    <div class="grid grid--padding-large">
-      <div class="grid__cell grid__cell--three-fifths">
-        <div class="three-images-project__left-limit">
-          <div class="grid grid--padding-small">
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <figure class="three-images-project__logo"> <img src="images/logo1.jpeg" class="attachment-full size-full" /> </figure>
-            </div>
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <p class="three-images-project__four-label"> Area Range:</p>
-              <h4 class="three-images-project__year"> 000 - 0000 Sq.Ft.</h4>
-            </div>
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <p class="three-images-project__four-label"> No. of Floors:</p>
-              <h4 class="three-images-project__year"> 00 Floors</h4>
-            </div>
-            <div class="grid__cell grid__cell--one-half grid__cell--four-columns">
-              <p class="three-images-project__four-label"> No. of Units:</p>
-              <h5 class="three-images-project__year"> 000 Units</h5>
+  
+  <div class="milestone specialisms">
+    <div class="grid">
+      <div class="grid__cell grid__cell--full">
+        <div class="container">
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000 - 0000 Sq.Ft.
+              </div>
+              <h4>Area Range</h4>
             </div>
           </div>
-          <div class="rera-block">
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000
+              </div>
+              <h4>No. of Floors</h4>
+            </div>
+          </div>
+
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000
+              </div>
+              <h4>No. of Towers</h4>
+            </div>
+          </div>
+
+          <div class="col-milestone">
+            <div class="milestone-counter">
+              <div class="stats animaper">
+                000
+              </div>
+              <h4>No. of Units</h4>
+            </div>
+          </div>
+          <div class="rera-block mt-2 ">
             <p><strong>RERA Website:</strong> <a href="https://gujrera.gujarat.gov.in/" target="_blank">https://gujrera.gujarat.gov.in</a></p>
-            <p><strong>Reg No.:</strong> PR/GJ/GANDHINAGAR/GANDHINAGAR CITY/DEMO/XX000000/000000</p>
+            <p><strong>Reg No.:</strong> PR/GJ/GANDHINAGAR/GANDHINAGAR CITY/XXXX/XXX002222/123456</p>
           </div>
         </div>
-        <figure class="three-images-project__image three-images-project__left-image"> <img width="844" height="563" src="images/Complited/Devsiddhi-Castle/SIDEVIEW.jpg" alt="" /> </figure>
       </div>
-      <div class="grid__cell grid__cell--two-fifths grid__cell--right-side" style="background: url(images/Complited/Devsiddhi-Castle/NIGHTVIEW.jpg); background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
     </div>
   </div>
+
   <div class="full-width-image large" data-bg-grab> <img width="1800" height="1048" src="images/Complited/Devsiddhi-Castle/INTERNALVIEW.jpg" alt="" /></div>
   <div class="linkbox-grid linkbox-grid--about">
     <div class="linkbox-grid__limit">
@@ -105,6 +122,9 @@
       </div>
       <div class="grid__cell grid__cell--one-third grid__cell--image-gallery">
         <div class="image-gallery__image-container" data-bg-grab> <img width="1192" height="716" src="images/Complited/Devsiddhi-Castle/CUTSECTION.jpg" alt="" /> <a class="image-gallery__image-link mfp-image" href="images/Complited/Devsiddhi-Castle/CUTSECTION.jpg" data-mfp="images/Complited/Devsiddhi-Castle/CUTSECTION.jpg"></a></div>
+      </div>
+      <div class="grid__cell grid__cell--one-third grid__cell--image-gallery">
+        <div class="image-gallery__image-container" data-bg-grab> <img width="1192" height="716" src="images/Complited/Devsiddhi-Castle/SIDEVIEW.jpg" alt="" /> <a class="image-gallery__image-link mfp-image" href="images/Complited/Devsiddhi-Castle/SIDEVIEW.jpg" data-mfp="images/Complited/Devsiddhi-Castle/CUTSECTION.jpg"></a></div>
       </div>
         
     </div>

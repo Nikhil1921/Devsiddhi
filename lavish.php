@@ -214,11 +214,11 @@ class="image-gallery__image-link mfp-image" href="images/on-going/Lavish/7.jpg" 
         <div class="grid__cell grid__cell--one-half contact-form__cell">
           <h1 class="contact-form__heading"> Lavish</h1>
           <div class="contact-form__content">
-            <p>E/801 & 802, Divyajivan Heights, <br>
-              Nr. Swaminarayan Dham,<br>
-              Dholeshwar Mahadev Road,<br>Koba, Gandhinagar - 382 007</p>
+            <p>Devsiddhi Lavish<br>9 Govt servant soc., <br>
+              Opp. Municipal Market,<br>
+              C.G Road navrangpura,<br>Ahmedabad</p>
             <div class="phone-no"> <a class="footer-content_phone" href="tel:+91 9104252746">+91 9104252746</a> </div>
-            <a class="contact-map__maps-link" href="https://www.google.co.in/maps/dir//5JJR%2BX5R+Divyajivan+Heights,+Near+Swaminarayan+Dham+Koba-Gandhinagar+Highway,+Dholeshwar+Mahadev+Rd,+Kudasan,+Gujarat+382007/@23.1814274,72.6392998,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x395c2a6b1fb05eb9:0x98717f6a00e9180c!2m2!1d72.6403941!2d23.1824876" target="_blank"> <svg
+            <a class="contact-map__maps-link" href="https://goo.gl/maps/aFdLyqcC86q5TH4QA" target="_blank"> <svg
 role="presentation" class="contact-map__map-icon">
             <title>Map Pin</title>
             <use xlink:href="#map-pin"/>

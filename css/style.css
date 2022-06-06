@@ -4870,7 +4870,7 @@ ul.small-menu__submenu:after {
 }
 @media screen and (max-width: 1500px) {
     .image-gallery .image-gallery__image-container {
-        min-height: 18.75rem;
+        min-height: 22.75rem;
     }
     .image-gallery .grid__cell.grid__cell--image-gallery:nth-child(1),
     .image-gallery .grid__cell.grid__cell--image-gallery:nth-child(2) {
@@ -10247,3 +10247,120 @@ border-radius: 100%;    border: 2px solid transparent;    opacity: .99;    anima
 
 }
 
+
+.pb {
+    padding-bottom: 176px;
+}
+
+.project-block .image-box {
+    position: relative;
+    overflow: hidden;
+}
+
+figure {
+    margin: 0;
+}
+
+
+.filter-video .image:before {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-right: 15px;
+    height: 100%;
+    width: 100%;
+    content: "";
+    z-index: -1;
+    background-color: #eeeeee;
+}
+
+.project-block .image-box img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.filter-video .inner-box a {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.inner-box a {
+    display: block;
+    font-size: 36px;
+    line-height: 1.2em;
+    color: #222222;
+    font-weight: 700;
+}
+
+.filter-video .link span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 26px;
+    color: #fbb908;
+    margin-left: -50px;
+    margin-top: -50px;
+    padding-left: 5px;
+    background-color: transparent;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.fa-play:before {
+    content: "\f04b";
+}
+
+.filter-video a.link span:after {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: -6%;
+    top: -6%;
+    content: "";
+    border: 5px solid rgb(255 255 255);
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.filter-video .link span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 26px;
+    color: #f28639;
+    margin-left: -50px;
+    margin-top: -50px;
+    padding-left: 5px;
+    background-color: transparent;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.filter-video .inner-box a {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}

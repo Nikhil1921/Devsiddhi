@@ -26,7 +26,7 @@
         <div class="container">
           <div class="slider__content-wrap">
             <h1 class="text-uppercase mb" data-aos="fade-right">Devsidhdhi Falicia</h1>
-            <a class="btn_more" data-aos="fade-right" href="shilp-aperia.php">View More</a>
+            <a class="btn_more" data-aos="fade-right" href="felicia.php">View More</a>
           </div>
         
       </div></a>
@@ -36,7 +36,7 @@
         <div class="container">
           <div class="slider__content-wrap">
             <h1 class="text-uppercase mb" data-aos="fade-right">Devsidhdhi Lavish</h1>
-            <a class="btn_more" data-aos="fade-right" href="city-center-2.php">View More</a>
+            <a class="btn_more" data-aos="fade-right" href="lavish.php">View More</a>
           </div>
         
       </div></a>
